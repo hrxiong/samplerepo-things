@@ -1,5 +1,6 @@
 blue
 red
+purple
 pink
 white
 black
